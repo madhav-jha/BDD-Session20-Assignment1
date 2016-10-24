@@ -1,0 +1,4 @@
+
+command to fetch twitter data
+
+flume-ng agent -n TwitterAgent -f /home/hadoop/HADOOP/apache-flume-1.6.0-bin/conf/flume.conf
